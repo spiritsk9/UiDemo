@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bees"
+        android:icon="@drawable/hall"
+        android:title="Bees" />
+
+    <item
+        android:id="@+id/navigation_bees_list"
+        android:icon="@drawable/bee"
+        android:title="Bees List" />
+
+    <item
+        android:id="@+id/navigation_blog"
+        android:icon="@drawable/blog"
+        android:title="Blog" />
+
+</menu>
